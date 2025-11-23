@@ -110,6 +110,7 @@ const HeaderUsers = (props) => {
         justifyContent: 'space-between',
         backgroundColor: '#CF0A0A',
         marginHorizontal: 0.5,
+        marginTop: 30,
         height: 80,
         elevation: 20,
         paddingVertical: 20,

@@ -144,7 +144,7 @@ const Signin = () => {
                 if (isAdmin) {
                   navigation.navigate('AdminDashboard');
                 } else {
-                  // Non-admin navigation
+                  // Non-anavigationdmin 
                   // Navigate to the home screen with the user's full name
                   navigation.navigate('tabnavigate');
                 }
@@ -186,7 +186,7 @@ const Signin = () => {
           })}
           backgroundColor={Platform.select({
             ios: "black",
-            android: "white",
+            android: "red",
           })}
         />
 

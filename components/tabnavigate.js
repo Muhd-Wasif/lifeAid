@@ -81,7 +81,7 @@ function Bottomtab({ navigation }) {
                     shadowOffset: 50,
                     borderTopWidth: 0.6,
                     borderTopColor: 'grey',
-                    height: 85
+                    height:95
                 },
                 tabBarIconStyle: { marginBottom: -10 },
                 tabBarLabelStyle: { marginBottom: 10, marginTop: 10, color: 'black', fontWeight: 'bold', fontSize: 12, }
