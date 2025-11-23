@@ -58,7 +58,7 @@ const Home = () => {
             <View style={styles.blocks}>
               <View style={{ flexDirection: 'row' }}>
                 <Image source={icons.requestIconRed} style={{ height: 35, width: 35 }} />
-                <Text style={styles.text2}>Create a Request</Text>
+                <Text style={styles.text2}>Create a New Request</Text>
               </View>
               <Text style={styles.text3}>Ask for blood in emergency situation.</Text>
               <TouchableOpacity onPress={() => navigation.navigate("RequestPage")}>
