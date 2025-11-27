@@ -12,8 +12,8 @@ const CurrentLocationButton = ({ onPress }) => {
 const styles = StyleSheet.create({
   button: {
     position: 'absolute',
-    bottom: 16,
-    right: 16,
+    bottom: 17,
+    right: 17,
     backgroundColor: 'white',
     borderRadius: 8,
     paddingVertical: 8,
