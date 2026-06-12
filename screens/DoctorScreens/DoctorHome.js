@@ -173,7 +173,7 @@ export default function DoctorHome() {
                         <View style={styles.redLine} />
                         <View style={styles.textContainer}>
                             <Text style={styles.hello}>Hello, <Text style={styles.name}>{doctorName}</Text></Text>
-                            <Text style={styles.welcome}>Review patient visits and update appointment status.</Text>
+                            <Text style={styles.welcome}>Review patient visit and update appointment status.</Text>
                         </View>
                     </View>
 
