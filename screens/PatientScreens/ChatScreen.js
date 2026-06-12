@@ -67,7 +67,7 @@ const getBotReply = (text) => {
     return "You are welcome. I am here if you need more help.";
   }
 
-  return "I can help with blood requests, appointments, reports, events, donor information, notifications, login, and app navigation. Please tell me what you need.";
+  return "I can help you with blood requests, appointments, reports, events, donor information, notifications, login, and app navigation. Please tell me what you need.";
 };
 
 const ChatScreen = ({ navigation }) => {
